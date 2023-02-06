@@ -1,0 +1,19 @@
+what are sorting algorithms is data structures & we will also understand why we need sorting algorithms?
+
+What is a Sorting Algorithm ?
+A Sorting Algorithm is used to rearrange a given array or list DS elements according to a particular pattern(For e.g. Ascending or Descending order). The comparison operator is used to decide the new order of element in the respective data structure.
+
+Why do we need sorting algorithms ?
+Efficient sorting is important for optimizing the efficiency of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists.
+Producing more human readable output.
+It is easier and faster to locate items in a sorted list than unsorted.
+
+Types of Sorting Algorithms ?
+Selection Sort
+Bubble Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Heap Sort
+Radix Sort
+etc etc...
